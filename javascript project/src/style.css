@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(23, 93, 207);
+}
+
+
+.mainbutton {
+    width: 1000px;
+    height: 500px;
+    margin-left: 200px;
+    margin-top: 202px;
+    color: black;
+    background-color: gold;
+
+}
